@@ -1,2 +1,3 @@
-2023/02/20-11:16:21.542 744 Creating DB D:/KDT2/FirstGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/02/20-11:16:21.848 744 Reusing MANIFEST D:/KDT2/FirstGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/02/23-12:49:59.422 1e7c Reusing MANIFEST D:/KDT2/FirstGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/02/23-12:49:59.433 1e7c Recovering log #3
+2023/02/23-12:49:59.433 1e7c Reusing old log D:/KDT2/FirstGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
